@@ -22,7 +22,7 @@ public class HW11 {
             }
         }
         System.out.println();
-        System.out.println("Transport matrix:");
+        System.out.println("Matrix:");
         System.out.println();
         for (int[] ints : b) {
             for (int anInt : ints) {
@@ -30,4 +30,4 @@ public class HW11 {
             }
             System.out.println();
         }
-    }
+    }}
